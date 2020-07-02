@@ -1,0 +1,18 @@
+{
+  "decisions": {
+    "1500|npm-audit-resolver>audit-resolve-core>yargs-parser": {
+      "decision": "none",
+      "madeAt": 1593697284781,
+      "reason": "package was removed",
+      "expiresAt": 1594906854940
+    },
+    "1523|cypress>lodash": {
+      "decision": "none",
+      "madeAt": 1593698792831,
+      "reason": "package was removed",
+      "expiresAt": 1594908382846
+    }
+  },
+  "rules": {},
+  "version": 1
+}
